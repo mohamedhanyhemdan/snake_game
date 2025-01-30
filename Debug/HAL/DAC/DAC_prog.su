@@ -1,0 +1,2 @@
+../HAL/DAC/DAC_prog.c:13:6:DAC_Init	8	static
+../HAL/DAC/DAC_prog.c:20:6:DAC_GenerateWave	24	static

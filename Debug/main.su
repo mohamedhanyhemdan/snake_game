@@ -1,0 +1,8 @@
+../main.c:61:6:draw	32	static
+../main.c:71:6:update	16	static
+../main.c:124:6:generate	8	static
+../main.c:135:5:main	24	static
+../main.c:220:6:Exti0_fun	8	static
+../main.c:230:6:Exti1_fun	8	static
+../main.c:240:6:Exti2_fun	8	static
+../main.c:250:6:Exti3_fun	8	static

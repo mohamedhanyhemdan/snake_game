@@ -1,0 +1,5 @@
+../MCAL/EXTI/EXTI_prog.c:15:6:EXTI_voidConfigure	24	static
+../MCAL/EXTI/EXTI_prog.c:50:6:EXTI0_IRQHandler	8	static
+../MCAL/EXTI/EXTI_prog.c:59:6:EXTI1_IRQHandler	8	static
+../MCAL/EXTI/EXTI_prog.c:68:6:EXTI2_IRQHandler	8	static
+../MCAL/EXTI/EXTI_prog.c:77:6:EXTI3_IRQHandler	8	static

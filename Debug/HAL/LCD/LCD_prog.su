@@ -1,0 +1,9 @@
+../HAL/LCD/LCD_prog.c:10:6:LCD_voidSendCMD	16	static
+../HAL/LCD/LCD_prog.c:23:6:LCD_voidWriteChar	16	static
+../HAL/LCD/LCD_prog.c:34:6:LCD_voidLCDInit	8	static
+../HAL/LCD/LCD_prog.c:53:6:LCD_voidGoTo	16	static
+../HAL/LCD/LCD_prog.c:66:6:LCD_ClrLCD	8	static
+../HAL/LCD/LCD_prog.c:72:6:LCD_voidWriteStrig	24	static
+../HAL/LCD/LCD_prog.c:84:6:LCD_voidWriteNum	24	static
+../HAL/LCD/LCD_prog.c:107:6:LCD_voidSaveCustomChar	24	static
+../HAL/LCD/LCD_prog.c:121:6:LCD_voidWriteCustomChar	16	static

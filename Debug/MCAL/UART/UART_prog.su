@@ -1,0 +1,3 @@
+../MCAL/UART/UART_prog.c:15:6:UART_Init	16	static
+../MCAL/UART/UART_prog.c:35:6:UART_Send	16	static
+../MCAL/UART/UART_prog.c:41:4:UART_Receive	4	static

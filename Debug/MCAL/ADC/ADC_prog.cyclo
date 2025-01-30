@@ -1,0 +1,2 @@
+../MCAL/ADC/ADC_prog.c:13:6:ADC_voidInit	2
+../MCAL/ADC/ADC_prog.c:38:5:ADC_u16ReadChannel	2

@@ -1,0 +1,7 @@
+../MCAL/NVIC/NVIC_prog.c:11:6:NVIC_Init	1
+../MCAL/NVIC/NVIC_prog.c:17:6:NVIC_EnableInterrupt	1
+../MCAL/NVIC/NVIC_prog.c:21:6:NVIC_DisableInterrupt	1
+../MCAL/NVIC/NVIC_prog.c:25:6:NVIC_SetPendingFlag	1
+../MCAL/NVIC/NVIC_prog.c:29:6:NVIC_ClearPendingFlag	1
+../MCAL/NVIC/NVIC_prog.c:33:4:NVIC_GetActiveFlag	1
+../MCAL/NVIC/NVIC_prog.c:37:6:NVIC_SetPriority	3
